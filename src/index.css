@@ -1,0 +1,2 @@
+/* reset - all styles handled in App.jsx */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
